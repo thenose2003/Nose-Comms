@@ -1,0 +1,22 @@
+{
+  "name": "nose-comms",
+  "version": "0.0.1",
+  "description": "A program designed to help you figure out what you should do in the game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thenose2003/Nose-Comms.git"
+  },
+  "author": "NoseThe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thenose2003/Nose-Comms/issues"
+  },
+  "homepage": "https://github.com/thenose2003/Nose-Comms#readme",
+  "dependencies": {
+    "discord.js": "^14.5.0"
+  }
+}
