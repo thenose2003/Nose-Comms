@@ -2,9 +2,9 @@
   "name": "nose-comms",
   "version": "0.0.1",
   "description": "A program designed to help you figure out what you should do in the game",
-  "main": "index.js",
+  "main": "src/bot.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node ."
   },
   "repository": {
     "type": "git",
@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/thenose2003/Nose-Comms#readme",
   "dependencies": {
-    "discord.js": "^14.5.0"
+    "discord.js": "^14.5.0",
+    "chalk": "^4.1.2",
+    "discord-api-types": "^0.37.11",
+    "dotenv": "^16.0.3"
   }
 }
